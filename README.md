@@ -62,8 +62,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <a href="https://github.com/victorlqueiroz">
     GitHub</a>
     &nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-victorlqueiroz">LinkedIn</a>
+    <a href="www.linkedin.com/in/victorlqueiroz">LinkedIn</a>
 </p>
 <br/><br/>
 <p>
