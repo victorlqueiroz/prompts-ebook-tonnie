@@ -52,17 +52,14 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 <p>
     <img 
-      align=left 
-      margin=10 
-      width=80 
+      align="left" 
+      style="margin:10px" 
+      width="80" 
       src="https://avatars.githubusercontent.com/u/25270167?s=400&u=6351019bddc9d5c85b0e9c6cd6294d648d59b5e3&v=4"
     />
-    <p>&nbsp&nbsp&nbspVictor L. Queiroz<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/victorlqueiroz">
-    GitHub</a>
+    <p>&nbsp;&nbsp;&nbsp;Victor L. Queiroz<br>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/victorlqueiroz">GitHub</a>
     &nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/victorlqueiroz">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/victorlqueiroz/">LinkedIn</a>
 </p>
-<br/><br/>
-<p>
